@@ -1,2 +1,0 @@
-# jarvistrade
-My company website
